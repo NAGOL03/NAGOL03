@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NAGOL03
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning how to make 2D games with TurboWarp
+- 🌱 I’m currently learning C# Unity
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me NAGOLLOGAN03@GMAIL.COM
 
