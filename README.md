@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NAGOL03
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning C# Unity
-- 💞️ I’m looking to collaborate on N/A
+- 👀 I’m interested in Hardware and Software
+- 🌱 I’m currently learning 220-1101, 220-1102 and Python
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me NAGOLLOGAN03@GMAIL.COM
 
 <!---
